@@ -1,0 +1,5 @@
+---
+name: Pentadactyl
+dotfiles:
+- ".pentadactyl"
+- ".pentadactylrc"

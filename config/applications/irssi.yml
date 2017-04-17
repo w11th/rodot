@@ -1,0 +1,4 @@
+---
+name: Irssi
+dotfiles:
+- ".irssi"

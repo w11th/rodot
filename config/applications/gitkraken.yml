@@ -1,0 +1,5 @@
+---
+name: GitKraken
+dotfiles:
+- ".gitkraken"
+- Library/Preferences/com.axosoft.gitkraken.plist

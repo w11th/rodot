@@ -1,0 +1,5 @@
+---
+name: Ansible
+dotfiles:
+- ".ansible"
+- ".ansible.cfg"

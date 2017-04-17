@@ -1,0 +1,5 @@
+---
+name: Typinator
+dotfiles:
+- Library/Application Support/Typinator
+- Library/Preferences/com.macility.typinator2.plist

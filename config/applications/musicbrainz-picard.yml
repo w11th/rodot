@@ -1,0 +1,4 @@
+---
+name: MusicBrainz Picard
+dotfiles:
+- ".config/MusicBrainz"

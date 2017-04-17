@@ -1,0 +1,4 @@
+---
+name: Flux
+dotfiles:
+- Library/Preferences/org.herf.Flux.plist

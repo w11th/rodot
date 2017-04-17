@@ -1,0 +1,4 @@
+---
+name: LimeChat
+dotfiles:
+- Library/Preferences/net.limechat.LimeChat-AppStore.plist

@@ -1,0 +1,4 @@
+---
+name: pip
+dotfiles:
+- ".pip/pip.conf"

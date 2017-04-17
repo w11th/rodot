@@ -1,0 +1,4 @@
+---
+name: liftoff
+dotfiles:
+- ".liftoffrc"

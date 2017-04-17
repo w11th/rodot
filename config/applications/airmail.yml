@@ -1,0 +1,4 @@
+---
+name: Airmail
+dotfiles:
+- Library/Containers/it.bloop.airmail2/Container.plist

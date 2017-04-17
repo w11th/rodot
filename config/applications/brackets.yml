@@ -1,0 +1,5 @@
+---
+name: Brackets
+dotfiles:
+- Library/Application Support/Brackets
+- Library/Preferences/io.brackets.appshell.plist

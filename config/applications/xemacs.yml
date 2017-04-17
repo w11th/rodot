@@ -1,0 +1,4 @@
+---
+name: XEmacs
+dotfiles:
+- ".xemacs"

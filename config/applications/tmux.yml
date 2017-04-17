@@ -1,0 +1,4 @@
+---
+name: Tmux
+dotfiles:
+- ".tmux.conf"

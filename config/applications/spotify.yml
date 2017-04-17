@@ -1,0 +1,4 @@
+---
+name: Spotify
+dotfiles:
+- Library/Preferences/com.spotify.client.plist

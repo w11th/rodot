@@ -1,0 +1,5 @@
+---
+name: ColorSchemer Studio 2
+dotfiles:
+- Library/Preferences/com.colorschemer.studio2.plist
+- Library/Application Support/ColorSchemer

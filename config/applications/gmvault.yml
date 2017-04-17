@@ -1,0 +1,4 @@
+---
+name: GMVault
+dotfiles:
+- ".gmvault/gmvault_defaults.conf"

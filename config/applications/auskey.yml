@@ -1,0 +1,4 @@
+---
+name: AusKey
+dotfiles:
+- Library/Application Support/AUSkey/keystore.xml

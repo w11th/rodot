@@ -1,0 +1,4 @@
+---
+name: MATLAB
+dotfiles:
+- ".matlab"

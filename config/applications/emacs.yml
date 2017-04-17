@@ -1,0 +1,5 @@
+---
+name: Emacs
+dotfiles:
+- ".emacs"
+- ".emacs.d"

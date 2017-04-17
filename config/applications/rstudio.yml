@@ -1,0 +1,5 @@
+---
+name: RStudio
+dotfiles:
+- ".rstudio-desktop"
+- Library/Preferences/org.rstudio.RStudio.plist

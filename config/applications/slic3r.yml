@@ -1,0 +1,4 @@
+---
+name: Slic3r
+dotfiles:
+- Library/Application Support/Slic3r

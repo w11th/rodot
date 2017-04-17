@@ -1,0 +1,4 @@
+---
+name: HexChat
+dotfiles:
+- ".config/hexchat"

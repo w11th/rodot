@@ -1,0 +1,4 @@
+---
+name: HandBrake
+dotfiles:
+- Library/Application Support/HandBrake/UserPresets.plist

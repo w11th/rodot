@@ -1,0 +1,4 @@
+---
+name: Ruby Version
+dotfiles:
+- ".ruby-version"

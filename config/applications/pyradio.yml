@@ -1,0 +1,4 @@
+---
+name: PyRadio
+dotfiles:
+- ".pyradio/stations.csv"

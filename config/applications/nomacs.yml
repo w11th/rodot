@@ -1,0 +1,4 @@
+---
+name: Nomacs
+dotfiles:
+- ".config/nomacs"

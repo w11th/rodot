@@ -1,0 +1,6 @@
+---
+name: Mou
+dotfiles:
+- Library/Preferences/com.mouapp.Mou.plist
+- Library/Preferences/com.mouapp.Mou.LSSharedFileList.plist
+- Library/Application Support/Mou

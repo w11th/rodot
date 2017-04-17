@@ -1,0 +1,4 @@
+---
+name: XChat
+dotfiles:
+- ".xchat2"

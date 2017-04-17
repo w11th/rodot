@@ -1,0 +1,4 @@
+---
+name: Bundler
+dotfiles:
+- ".bundle/config"

@@ -1,0 +1,4 @@
+---
+name: PyPI
+dotfiles:
+- ".pypirc"

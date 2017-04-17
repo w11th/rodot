@@ -1,0 +1,5 @@
+---
+name: Task Paper
+dotfiles:
+- Library/Preferences/com.hogbaysoftware.TaskPaper.mac.plist
+- Library/Application Support/TaskPaper

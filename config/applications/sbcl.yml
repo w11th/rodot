@@ -1,0 +1,4 @@
+---
+name: SBCL
+dotfiles:
+- ".sbclrc"

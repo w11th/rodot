@@ -1,0 +1,4 @@
+---
+name: Terminator
+dotfiles:
+- ".config/terminator/config"

@@ -1,0 +1,4 @@
+---
+name: MercuryMover
+dotfiles:
+- Library/Preferences/com.heliumfoot.MyWiAgent.plist

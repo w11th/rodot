@@ -1,0 +1,5 @@
+---
+name: Mackup
+dotfiles:
+- ".mackup.cfg"
+- ".mackup"

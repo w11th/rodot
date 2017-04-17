@@ -1,0 +1,4 @@
+---
+name: ShiftIt
+dotfiles:
+- Library/Preferences/org.shiftitapp.ShiftIt.plist

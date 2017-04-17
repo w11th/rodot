@@ -1,0 +1,4 @@
+---
+name: SmartGit
+dotfiles:
+- Library/Preferences/SmartGit/smartgit.vmoptions

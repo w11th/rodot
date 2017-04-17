@@ -1,0 +1,4 @@
+---
+name: ControlPlane
+dotfiles:
+- Library/Preferences/com.dustinrue.ControlPlane.plist

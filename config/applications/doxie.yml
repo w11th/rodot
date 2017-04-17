@@ -1,0 +1,4 @@
+---
+name: Doxie
+dotfiles:
+- Library/Preferences/com.getdoxie.doxie.plist

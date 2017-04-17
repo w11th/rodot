@@ -1,0 +1,4 @@
+---
+name: jrnl
+dotfiles:
+- ".jrnl_config"

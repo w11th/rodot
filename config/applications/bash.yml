@@ -1,0 +1,11 @@
+---
+name: Bash
+dotfiles:
+- ".aliases"
+- ".bash_aliases"
+- ".bash_login"
+- ".bash_logout"
+- ".bashrc"
+- ".profile"
+- ".bash_profile"
+- ".inputrc"

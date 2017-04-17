@@ -1,0 +1,5 @@
+---
+name: BetterTouchTool
+dotfiles:
+- Library/Preferences/com.hegenberg.BetterTouchTool.plist
+- Library/Application Support/BetterTouchTool/bttdata2

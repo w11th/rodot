@@ -1,0 +1,4 @@
+---
+name: Deal Alert
+dotfiles:
+- Library/Preferences/com.LittleFin.DealAlert.plist

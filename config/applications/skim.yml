@@ -1,0 +1,4 @@
+---
+name: Skim
+dotfiles:
+- Library/Preferences/net.sourceforge.skim-app.skim.plist

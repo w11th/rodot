@@ -1,0 +1,4 @@
+---
+name: tvnamer
+dotfiles:
+- ".tvnamer.json"

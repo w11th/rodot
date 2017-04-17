@@ -1,0 +1,5 @@
+---
+name: Sublime Text 2
+dotfiles:
+- Library/Application Support/Sublime Text 2/Packages/User
+- ".config/sublime-text-2/Packages/User"

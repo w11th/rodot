@@ -1,0 +1,4 @@
+---
+name: Todo.txt CLI
+dotfiles:
+- ".todo/config"

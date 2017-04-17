@@ -1,0 +1,5 @@
+---
+name: Heroku
+dotfiles:
+- ".heroku/accounts"
+- ".heroku/plugins"

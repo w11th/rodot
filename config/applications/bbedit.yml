@@ -1,0 +1,5 @@
+---
+name: BBEdit
+dotfiles:
+- Library/Application Support/BBEdit
+- Library/Preferences/com.barebones.bbedit.plist

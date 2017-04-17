@@ -1,0 +1,4 @@
+---
+name: Robomongo
+dotfiles:
+- ".config/robomongo"

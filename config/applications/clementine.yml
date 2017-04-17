@@ -1,0 +1,4 @@
+---
+name: Clementine
+dotfiles:
+- Library/Preferences/org.clementine-player.Clementine.plist

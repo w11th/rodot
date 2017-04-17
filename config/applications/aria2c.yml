@@ -1,0 +1,4 @@
+---
+name: aria2c
+dotfiles:
+- ".aria2"

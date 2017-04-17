@@ -1,0 +1,8 @@
+---
+name: GnuPG
+dotfiles:
+- ".gnupg/gpg-agent.conf"
+- ".gnupg/gpg.conf"
+- ".gnupg/secring.gpg"
+- ".gnupg/trustdb.gpg"
+- ".gnupg/pubring.gpg"

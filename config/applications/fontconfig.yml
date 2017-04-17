@@ -1,0 +1,4 @@
+---
+name: Fontconfig
+dotfiles:
+- ".config/fontconfig"

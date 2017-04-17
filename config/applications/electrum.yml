@@ -1,0 +1,4 @@
+---
+name: Electrum
+dotfiles:
+- ".electrum/config"

@@ -1,0 +1,4 @@
+---
+name: Keyboard Maestro
+dotfiles:
+- Library/Application Support/Keyboard Maestro

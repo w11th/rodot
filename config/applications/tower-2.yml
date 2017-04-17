@@ -1,0 +1,5 @@
+---
+name: Tower 2
+dotfiles:
+- Library/Application Support/com.fournova.Tower2
+- Library/Preferences/com.fournova.Tower2.plist

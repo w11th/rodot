@@ -1,0 +1,5 @@
+---
+name: BetterSnapTool
+dotfiles:
+- Library/Preferences/com.hegenberg.BetterSnapTool.plist
+- Library/Application Support/BetterSnapTool

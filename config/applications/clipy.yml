@@ -1,0 +1,5 @@
+---
+name: Clipy
+dotfiles:
+- Library/Application Support/Clipy
+- Library/Preferences/com.clipy-app.Clipy.plist

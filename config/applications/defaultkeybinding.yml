@@ -1,0 +1,4 @@
+---
+name: DefaultKeyBinding
+dotfiles:
+- Library/KeyBindings/DefaultKeyBinding.dict

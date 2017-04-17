@@ -1,0 +1,4 @@
+---
+name: Concentrate
+dotfiles:
+- Library/Application Support/Concentrate/Concentrate.sqlite3

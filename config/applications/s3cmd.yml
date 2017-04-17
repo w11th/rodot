@@ -1,0 +1,4 @@
+---
+name: S3cmd
+dotfiles:
+- ".s3cfg"

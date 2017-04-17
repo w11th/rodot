@@ -1,0 +1,5 @@
+---
+name: Houdini
+dotfiles:
+- Library/Preferences/com.uglyapps.Houdini.plist
+- Library/Application Support/Houdini

@@ -1,0 +1,4 @@
+---
+name: MPlayerX
+dotfiles:
+- Library/Preferences/org.niltsh.MPlayerX.plist

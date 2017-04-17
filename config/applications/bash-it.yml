@@ -1,0 +1,4 @@
+---
+name: Bash it
+dotfiles:
+- ".bash_it"

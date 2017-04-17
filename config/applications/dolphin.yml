@@ -1,0 +1,5 @@
+---
+name: Dolphin
+dotfiles:
+- Library/Application Support/Dolphin
+- Library/Preferences/org.dolphin-emu.dolphin.plist

@@ -1,0 +1,6 @@
+---
+name: MacOSX
+dotfiles:
+- ".MacOSX"
+- Library/KeyBindings/DefaultKeyBinding.dict
+- Library/Preferences/com.apple.symbolichotkeys.plist

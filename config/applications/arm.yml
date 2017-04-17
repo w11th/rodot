@@ -1,0 +1,4 @@
+---
+name: Arm
+dotfiles:
+- ".arm/armrc"

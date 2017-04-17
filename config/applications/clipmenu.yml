@@ -1,0 +1,5 @@
+---
+name: ClipMenu
+dotfiles:
+- Library/Application Support/ClipMenu
+- Library/Preferences/com.naotaka.ClipMenu.plist

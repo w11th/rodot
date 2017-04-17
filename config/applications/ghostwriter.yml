@@ -1,0 +1,4 @@
+---
+name: Ghostwriter
+dotfiles:
+- ".config/ghostwriter"

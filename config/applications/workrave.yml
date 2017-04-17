@@ -1,0 +1,5 @@
+---
+name: Workrave
+dotfiles:
+- ".workrave/id"
+- ".workrave/historystats"

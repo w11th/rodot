@@ -1,0 +1,5 @@
+---
+name: ngrok
+dotfiles:
+- ".ngrok"
+- ".ngrok2"

@@ -1,0 +1,10 @@
+---
+name: MPV
+dotfiles:
+- ".config/mpv/mpv.conf"
+- ".config/mpv/scripts"
+- ".config/mpv/input.conf"
+- ".config/mpv/watch_later"
+- ".mpv/channels.conf"
+- ".mpv/config"
+- ".mpv/input.conf"

@@ -1,0 +1,6 @@
+---
+name: Default Folder X
+dotfiles:
+- Library/Preferences/com.stclairsoft.DefaultFolderX.favorites.plist
+- Library/Preferences/com.stclairsoft.DefaultFolderX.plist
+- Library/Preferences/com.stclairsoft.DefaultFolderX.settings.plist

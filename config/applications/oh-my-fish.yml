@@ -1,0 +1,4 @@
+---
+name: Oh My Fish
+dotfiles:
+- ".config/omf"

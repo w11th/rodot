@@ -1,0 +1,7 @@
+---
+name: X11
+dotfiles:
+- ".Xmodmap"
+- ".Xresources"
+- ".fonts"
+- ".xinitrc"

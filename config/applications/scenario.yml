@@ -1,0 +1,5 @@
+---
+name: Scenario
+dotfiles:
+- Library/Preferences/com.lagente.scenario.plist
+- Library/Scenario

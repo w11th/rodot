@@ -1,0 +1,5 @@
+---
+name: Cartographica
+dotfiles:
+- Library/Application Support/Cartographica
+- Library/Preferences/com.ClueTrust.Cartographica.plist

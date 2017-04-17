@@ -1,0 +1,4 @@
+---
+name: Lollypop
+dotfiles:
+- ".local/share/lollypop"

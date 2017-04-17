@@ -1,0 +1,4 @@
+---
+name: Spectrwm
+dotfiles:
+- ".spectrwm.conf"

@@ -1,0 +1,4 @@
+---
+name: Autokey
+dotfiles:
+- ".config/autokey"

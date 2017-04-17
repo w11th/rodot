@@ -1,0 +1,4 @@
+---
+name: SelfControl
+dotfiles:
+- Library/Preferences/org.eyebeam.SelfControl.plist

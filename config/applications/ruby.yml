@@ -1,0 +1,8 @@
+---
+name: Ruby
+dotfiles:
+- ".gemrc"
+- ".irbrc"
+- ".gem/credentials"
+- ".pryrc"
+- ".aprc"

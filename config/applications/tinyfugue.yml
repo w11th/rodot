@@ -1,0 +1,4 @@
+---
+name: TinyFugue
+dotfiles:
+- ".tfrc"

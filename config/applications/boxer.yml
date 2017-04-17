@@ -1,0 +1,5 @@
+---
+name: Boxer
+dotfiles:
+- Library/Preferences/net.washboardabs.boxer.plist
+- Applications/DOS Games

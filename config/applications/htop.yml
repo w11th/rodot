@@ -1,0 +1,5 @@
+---
+name: Htop
+dotfiles:
+- ".htoprc"
+- ".config/htop/htoprc"

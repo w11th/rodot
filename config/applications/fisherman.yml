@@ -1,0 +1,5 @@
+---
+name: Fisherman
+dotfiles:
+- ".config/fisherman"
+- ".config/fish/fishfile"

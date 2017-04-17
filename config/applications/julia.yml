@@ -1,0 +1,4 @@
+---
+name: Julia
+dotfiles:
+- ".juliarc.jl"

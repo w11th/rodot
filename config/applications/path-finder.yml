@@ -1,0 +1,6 @@
+---
+name: Path Finder
+dotfiles:
+- Library/Preferences/com.cocoatech.PathFinder.plist
+- Library/Application Support/Path Finder/PlugIns
+- Library/Application Support/Path Finder/Settings

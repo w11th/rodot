@@ -1,0 +1,4 @@
+---
+name: Smooth Mouse
+dotfiles:
+- Library/Preferences/com.cyberic.SmoothMouse.plist

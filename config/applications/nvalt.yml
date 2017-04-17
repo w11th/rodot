@@ -1,0 +1,5 @@
+---
+name: nvALT
+dotfiles:
+- Library/Preferences/net.elasticthreads.nv.plist
+- Library/Application Support/Notational Velocity

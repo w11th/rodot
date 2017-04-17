@@ -1,0 +1,4 @@
+---
+name: CloudApp
+dotfiles:
+- Library/Preferences/com.linebreak.CloudAppMacOSX.plist

@@ -1,0 +1,4 @@
+---
+name: Gitbox
+dotfiles:
+- Library/Preferences/com.oleganza.gitbox.plist

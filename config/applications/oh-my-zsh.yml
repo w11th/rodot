@@ -1,0 +1,4 @@
+---
+name: Oh My Zsh
+dotfiles:
+- ".oh-my-zsh/custom"

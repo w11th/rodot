@@ -1,0 +1,5 @@
+---
+name: CLion
+dotfiles:
+- Library/Preferences/CLion2016.2
+- Library/Application Support/CLion2016.2

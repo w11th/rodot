@@ -1,0 +1,4 @@
+---
+name: EditorConfig
+dotfiles:
+- ".editorconfig"

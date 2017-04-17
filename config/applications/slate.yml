@@ -1,0 +1,6 @@
+---
+name: Slate
+dotfiles:
+- ".slate"
+- ".slate.js"
+- Library/Application Support/com.slate.Slate

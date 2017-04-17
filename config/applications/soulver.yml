@@ -1,0 +1,5 @@
+---
+name: Soulver
+dotfiles:
+- Library/Application Support/Soulver
+- Library/Preferences/com.acqualia.soulver.plist

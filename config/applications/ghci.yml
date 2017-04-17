@@ -1,0 +1,4 @@
+---
+name: ghci
+dotfiles:
+- ".ghci"

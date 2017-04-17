@@ -1,0 +1,5 @@
+---
+name: Querious
+dotfiles:
+- Library/Preferences/com.araeliumgroup.querious.plist
+- Library/Application Support/Querious

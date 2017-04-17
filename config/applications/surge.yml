@@ -1,0 +1,4 @@
+---
+name: Surge
+dotfiles:
+- ".surge.conf"

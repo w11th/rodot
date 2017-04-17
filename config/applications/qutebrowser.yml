@@ -1,0 +1,4 @@
+---
+name: Qutebrowser
+dotfiles:
+- ".config/qutebrowser/qutebrowser.conf"
