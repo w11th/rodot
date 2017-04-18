@@ -1,5 +1,3 @@
----
-name: SizeUp
 dotfiles:
-- Library/Preferences/com.irradiatedsoftware.SizeUp.plist
-- Library/Application Support/SizeUp/SizeUp.sizeuplicense
+  - Library/Preferences/com.irradiatedsoftware.SizeUp.plist
+  - Library/Application Support/SizeUp/SizeUp.sizeuplicense

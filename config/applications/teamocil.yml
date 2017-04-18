@@ -1,4 +1,2 @@
----
-name: Teamocil
 dotfiles:
-- ".teamocil"
+  - .teamocil

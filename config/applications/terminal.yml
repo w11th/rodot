@@ -1,4 +1,2 @@
----
-name: Terminal
 dotfiles:
-- Library/Preferences/com.apple.Terminal.plist
+  - Library/Preferences/com.apple.Terminal.plist

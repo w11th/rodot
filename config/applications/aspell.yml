@@ -1,6 +1,4 @@
----
-name: Aspell
 dotfiles:
-- ".aspell.conf"
-- ".aspell.en.prepl"
-- ".aspell.en.pws"
+  - .aspell.conf
+  - .aspell.en.prepl
+  - .aspell.en.pws

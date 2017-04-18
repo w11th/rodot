@@ -1,4 +1,2 @@
----
-name: Chicken
 dotfiles:
-- Library/Preferences/net.sourceforge.chicken.plist
+  - Library/Preferences/net.sourceforge.chicken.plist

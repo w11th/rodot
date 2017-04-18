@@ -1,5 +1,3 @@
----
-name: Fisherman
 dotfiles:
-- ".config/fisherman"
-- ".config/fish/fishfile"
+  - .config/fisherman
+  - .config/fish/fishfile

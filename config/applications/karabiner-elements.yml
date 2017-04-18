@@ -1,4 +1,0 @@
----
-name: Karabiner Elements
-dotfiles:
-- ".config/karabiner/karabiner.json"

@@ -1,6 +1,4 @@
----
-name: Gradle
 dotfiles:
-- ".gradle/gradle.properties"
-- ".gradle/init.gradle"
-- ".gradle/init.d"
+  - .gradle/gradle.properties
+  - .gradle/init.gradle
+  - .gradle/init.d

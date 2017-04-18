@@ -1,6 +1,4 @@
----
-name: ExpanDrive
 dotfiles:
-- Library/Application Support/ExpanDrive
-- Preferences/com.expandrive.ExpanDrive2.plist
-- Preferences/com.expandrive.ExpanDrive3.plist
+  - Library/Application Support/ExpanDrive
+  - Preferences/com.expandrive.ExpanDrive2.plist
+  - Preferences/com.expandrive.ExpanDrive3.plist

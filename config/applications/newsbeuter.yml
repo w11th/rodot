@@ -1,5 +1,3 @@
----
-name: newsbeuter
 dotfiles:
-- ".newsbeuter/config"
-- ".newsbeuter/urls"
+  - .newsbeuter/config
+  - .newsbeuter/urls

@@ -1,4 +1,0 @@
----
-name: Gmail Notifr
-dotfiles:
-- Library/Preferences/com.ashchan.GmailNotifr.plist

@@ -1,4 +1,2 @@
----
-name: AppCleaner
 dotfiles:
-- Library/Preferences/net.freemacsoft.AppCleaner.plist
+  - Library/Preferences/net.freemacsoft.AppCleaner.plist

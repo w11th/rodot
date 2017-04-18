@@ -1,4 +1,2 @@
----
-name: Rhythmbox
 dotfiles:
-- ".gconf/apps/rhythmbox"
+  - .gconf/apps/rhythmbox

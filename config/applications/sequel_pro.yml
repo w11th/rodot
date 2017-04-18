@@ -1,0 +1,3 @@
+dotfiles:
+  - Library/Application Support/Sequel Pro/Data
+  - Library/Preferences/com.sequelpro.SequelPro.plist

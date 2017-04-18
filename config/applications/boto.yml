@@ -1,4 +1,2 @@
----
-name: Boto
 dotfiles:
-- ".boto"
+  - .boto

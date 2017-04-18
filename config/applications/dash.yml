@@ -1,7 +1,5 @@
----
-name: Dash
 dotfiles:
-- Library/Application Support/Dash/library.dash
-- Library/Application Support/Dash/License/license.dash-license
-- Library/Preferences/com.kapeli.dash.plist
-- Library/Preferences/com.kapeli.dashdoc.plist
+  - Library/Application Support/Dash/library.dash
+  - Library/Application Support/Dash/License/license.dash-license
+  - Library/Preferences/com.kapeli.dash.plist
+  - Library/Preferences/com.kapeli.dashdoc.plist

@@ -1,5 +1,3 @@
----
-name: Emacs
 dotfiles:
-- ".emacs"
-- ".emacs.d"
+  - .emacs
+  - .emacs.d

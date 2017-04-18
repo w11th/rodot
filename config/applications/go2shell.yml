@@ -1,4 +1,2 @@
----
-name: Go2Shell
 dotfiles:
-- Library/Preferences/com.alice.mac.go2shell.plist
+  - Library/Preferences/com.alice.mac.go2shell.plist

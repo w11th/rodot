@@ -1,6 +1,4 @@
----
-name: Textual
 dotfiles:
-- Library/Application Support/Textual IRC
-- Library/Preferences/com.codeux.irc.textual.plist
-- Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist
+  - Library/Application Support/Textual IRC
+  - Library/Preferences/com.codeux.irc.textual.plist
+  - Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist

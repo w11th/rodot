@@ -1,4 +1,2 @@
----
-name: DbVisualizer
 dotfiles:
-- ".dbvis"
+  - .dbvis

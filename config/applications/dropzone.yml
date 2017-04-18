@@ -1,5 +1,3 @@
----
-name: Dropzone 3
 dotfiles:
-- Library/Application Support/Dropzone 3
-- Library/Preferences/com.aptonic.Dropzone3.plist
+  - Library/Application Support/Dropzone 3
+  - Library/Preferences/com.aptonic.Dropzone3.plist

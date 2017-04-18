@@ -1,5 +1,3 @@
----
-name: CotEditor
 dotfiles:
-- Library/Application Support/CotEditor
-- Library/Preferences/com.coteditor.CotEditor.plist
+  - Library/Application Support/CotEditor
+  - Library/Preferences/com.coteditor.CotEditor.plist

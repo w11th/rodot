@@ -1,4 +1,2 @@
----
-name: ColorSync
 dotfiles:
-- Library/ColorSync/Profiles
+  - Library/ColorSync/Profiles

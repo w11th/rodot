@@ -1,4 +1,2 @@
----
-name: Nethack
 dotfiles:
-- ".nethackrc"
+  - .nethackrc

@@ -1,5 +1,3 @@
----
-name: Arara
 dotfiles:
-- ".araraconfig.yaml"
-- araraconfig.yaml
+  - .araraconfig.yaml
+  - araraconfig.yaml

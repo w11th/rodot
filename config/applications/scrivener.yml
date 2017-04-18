@@ -1,5 +1,3 @@
----
-name: Scrivener
 dotfiles:
-- Library/Preferences/com.literatureandlatte.scrivener2.plist
-- Library/Application Support/Scrivener
+  - Library/Preferences/com.literatureandlatte.scrivener2.plist
+  - Library/Application Support/Scrivener

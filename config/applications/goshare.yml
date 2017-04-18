@@ -1,4 +1,2 @@
----
-name: GoShare
 dotfiles:
-- ".config/dictget/goshare"
+  - .config/dictget/goshare

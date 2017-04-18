@@ -1,5 +1,3 @@
----
-name: TextExpander
 dotfiles:
-- Library/Application Support/TextExpander/Settings.textexpander
-- Library/Preferences/com.smileonmymac.textexpander.plist
+  - Library/Application Support/TextExpander/Settings.textexpander
+  - Library/Preferences/com.smileonmymac.textexpander.plist

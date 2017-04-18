@@ -1,5 +1,3 @@
----
-name: Kdenlive
 dotfiles:
-- ".config/kdenliverc"
-- kdenlive
+  - .config/kdenliverc
+  - kdenlive

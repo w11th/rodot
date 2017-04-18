@@ -1,4 +1,2 @@
----
-name: Arm
 dotfiles:
-- ".arm/armrc"
+  - .arm/armrc

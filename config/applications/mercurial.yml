@@ -1,5 +1,3 @@
----
-name: Mercurial
 dotfiles:
-- ".hgrc"
-- ".hgignore_global"
+  - .hgrc
+  - .hgignore_global

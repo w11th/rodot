@@ -1,7 +1,5 @@
----
-name: R
 dotfiles:
-- ".R"
-- ".Rhistory"
-- ".Rprofile"
-- Library/Preferences/org.R-project.R.plist
+  - .R
+  - .Rhistory
+  - .Rprofile
+  - Library/Preferences/org.R-project.R.plist

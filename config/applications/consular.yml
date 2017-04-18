@@ -1,5 +1,3 @@
----
-name: Consular
 dotfiles:
-- ".config/consular"
-- ".consularc"
+  - .config/consular
+  - .consularc

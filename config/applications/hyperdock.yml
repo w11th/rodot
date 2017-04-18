@@ -1,6 +1,4 @@
----
-name: HyperDock
 dotfiles:
-- Library/Application Support/HyperDock
-- Library/Preferences/de.bahoom.HyperDock.plist
-- Library/Preferences/de.bahoom.HyperDock.prefpane.plist
+  - Library/Application Support/HyperDock
+  - Library/Preferences/de.bahoom.HyperDock.plist
+  - Library/Preferences/de.bahoom.HyperDock.prefpane.plist

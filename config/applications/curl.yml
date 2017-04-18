@@ -1,5 +1,3 @@
----
-name: Curl
 dotfiles:
-- ".netrc"
-- ".curlrc"
+  - .netrc
+  - .curlrc

@@ -1,4 +1,2 @@
----
-name: Quicklook
 dotfiles:
-- Library/Quicklook
+  - Library/Quicklook

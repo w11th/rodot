@@ -1,5 +1,3 @@
----
-name: Fantastical
 dotfiles:
-- Library/Preferences/com.flexibits.fantastical.plist
-- Library/Containers/com.flexibits.fantastical2.mac/Container.plist
+  - Library/Preferences/com.flexibits.fantastical.plist
+  - Library/Containers/com.flexibits.fantastical2.mac/Container.plist

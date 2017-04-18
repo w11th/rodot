@@ -1,5 +1,3 @@
----
-name: Gas Mask
 dotfiles:
-- Library/Gas Mask
-- Library/Preferences/ee.clockwise.gmask.plist
+  - Library/Gas Mask
+  - Library/Preferences/ee.clockwise.gmask.plist

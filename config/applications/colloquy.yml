@@ -1,5 +1,3 @@
----
-name: Colloquy
 dotfiles:
-- Library/Preferences/info.colloquy.plist
-- Library/Application Support/Colloquy
+  - Library/Preferences/info.colloquy.plist
+  - Library/Application Support/Colloquy

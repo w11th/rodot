@@ -1,4 +1,2 @@
----
-name: IPython
 dotfiles:
-- ".ipython"
+  - .ipython

@@ -1,4 +1,2 @@
----
-name: Processing
 dotfiles:
-- Library/Processing/preferences.txt
+  - Library/Processing/preferences.txt

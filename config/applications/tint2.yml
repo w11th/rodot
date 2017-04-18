@@ -1,4 +1,0 @@
----
-name: tint2
-dotfiles:
-- ".config/tint2/tint2rc"

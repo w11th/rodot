@@ -1,4 +1,2 @@
----
-name: i2cssh
 dotfiles:
-- ".i2csshrc"
+  - .i2csshrc

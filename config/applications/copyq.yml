@@ -1,4 +1,2 @@
----
-name: CopyQ
 dotfiles:
-- ".config/copyq"
+  - .config/copyq

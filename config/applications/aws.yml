@@ -1,4 +1,2 @@
----
-name: AWS CLI
 dotfiles:
-- ".aws"
+  - .aws

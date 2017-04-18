@@ -1,4 +1,2 @@
----
-name: Pidgin
 dotfiles:
-- ".purple"
+  - .purple

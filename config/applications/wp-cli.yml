@@ -1,4 +1,0 @@
----
-name: WP-CLI
-dotfiles:
-- ".wp-cli"

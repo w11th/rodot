@@ -1,5 +1,3 @@
----
-name: Cyberduck
 dotfiles:
-- Library/Application Support/Cyberduck
-- Library/Preferences/ch.sudo.cyberduck.plist
+  - Library/Application Support/Cyberduck
+  - Library/Preferences/ch.sudo.cyberduck.plist

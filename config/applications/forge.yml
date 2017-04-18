@@ -1,4 +1,2 @@
----
-name: Forge
 dotfiles:
-- Library/Application Support/Forge
+  - Library/Application Support/Forge

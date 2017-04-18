@@ -1,6 +1,4 @@
----
-name: MacDown
 dotfiles:
-- Library/Preferences/com.uranusjr.macdown.plist
-- Library/Application Support/MacDown/Styles
-- Library/Application Support/MacDown/Themes
+  - Library/Preferences/com.uranusjr.macdown.plist
+  - Library/Application Support/MacDown/Styles
+  - Library/Application Support/MacDown/Themes

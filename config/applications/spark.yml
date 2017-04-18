@@ -1,4 +1,2 @@
----
-name: Spark
 dotfiles:
-- Library/Application Support/Spark
+  - Library/Application Support/Spark

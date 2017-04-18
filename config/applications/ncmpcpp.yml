@@ -1,4 +1,2 @@
----
-name: ncmpcpp
 dotfiles:
-- ".ncmpcpp"
+  - .ncmpcpp

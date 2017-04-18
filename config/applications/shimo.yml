@@ -1,5 +1,3 @@
----
-name: Shimo
 dotfiles:
-- Library/Application Support/Shimo/ShimoProfiles.xml
-- Library/Preferences/com.chungwasoft.Shimo.plist
+  - Library/Application Support/Shimo/ShimoProfiles.xml
+  - Library/Preferences/com.chungwasoft.Shimo.plist

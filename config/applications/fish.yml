@@ -1,6 +1,4 @@
----
-name: Fish
 dotfiles:
-- ".config/fish/config.fish"
-- ".config/fish/functions"
-- ".config/fish/completions"
+  - .config/fish/config.fish
+  - .config/fish/functions
+  - .config/fish/completions

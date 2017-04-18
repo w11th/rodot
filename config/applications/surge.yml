@@ -1,4 +1,2 @@
----
-name: Surge
 dotfiles:
-- ".surge.conf"
+  - .surge.conf

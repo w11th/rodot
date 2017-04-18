@@ -1,8 +1,6 @@
----
-name: Zsh
 dotfiles:
-- ".zshenv"
-- ".zprofile"
-- ".zshrc"
-- ".zlogin"
-- ".zlogout"
+  - .zshenv
+  - .zprofile
+  - .zshrc
+  - .zlogin
+  - .zlogout

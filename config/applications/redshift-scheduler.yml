@@ -1,4 +1,0 @@
----
-name: Redshift Scheduler
-dotfiles:
-- ".config/redshift-scheduler/rules.conf"

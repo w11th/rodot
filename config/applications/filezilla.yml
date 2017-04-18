@@ -1,7 +1,5 @@
----
-name: FileZilla
 dotfiles:
-- ".config/filezilla/filezilla.xml"
-- ".config/filezilla/layout.xml"
-- ".config/filezilla/sitemanager.xml"
-- ".filezilla"
+  - .config/filezilla/filezilla.xml
+  - .config/filezilla/layout.xml
+  - .config/filezilla/sitemanager.xml
+  - .filezilla

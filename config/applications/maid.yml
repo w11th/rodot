@@ -1,4 +1,2 @@
----
-name: Maid
 dotfiles:
-- ".maid"
+  - .maid

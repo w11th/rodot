@@ -1,4 +1,2 @@
----
-name: Ctags
 dotfiles:
-- ".ctags"
+  - .ctags

@@ -1,4 +1,0 @@
----
-name: Git Hooks
-dotfiles:
-- ".git_hooks"

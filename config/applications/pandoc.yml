@@ -1,4 +1,2 @@
----
-name: Pandoc
 dotfiles:
-- ".pandoc"
+  - .pandoc

@@ -1,6 +1,4 @@
----
-name: MonoDevelop
 dotfiles:
-- Library/MonoDevelop-Unity-5.0/KeyBindings/Custom.mac-kb.xml
-- Library/Preferences/MonoDevelop-Unity-5.0/MonoDevelopProperties.xml
-- Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml
+  - Library/MonoDevelop-Unity-5.0/KeyBindings/Custom.mac-kb.xml
+  - Library/Preferences/MonoDevelop-Unity-5.0/MonoDevelopProperties.xml
+  - Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml

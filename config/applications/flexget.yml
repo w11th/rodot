@@ -1,5 +1,3 @@
----
-name: FlexGet
 dotfiles:
-- ".config/flexget/config.yml"
-- ".flexget/config.yml"
+  - .config/flexget/config.yml
+  - .flexget/config.yml

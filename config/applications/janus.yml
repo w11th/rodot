@@ -1,6 +1,4 @@
----
-name: Janus
 dotfiles:
-- ".janus"
-- ".vimrc.before"
-- ".vimrc.after"
+  - .janus
+  - .vimrc.before
+  - .vimrc.after

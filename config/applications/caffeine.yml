@@ -1,4 +1,2 @@
----
-name: Caffeine
 dotfiles:
-- Library/Preferences/com.lightheadsw.Caffeine.plist
+  - Library/Preferences/com.lightheadsw.Caffeine.plist

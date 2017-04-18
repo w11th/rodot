@@ -1,5 +1,3 @@
----
-name: Stay
 dotfiles:
-- Library/Preferences/com.cordlessdog.Stay.plist
-- Library/Application Support/Stay
+  - Library/Preferences/com.cordlessdog.Stay.plist
+  - Library/Application Support/Stay

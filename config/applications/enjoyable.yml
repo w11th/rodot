@@ -1,4 +1,2 @@
----
-name: Enjoyable
 dotfiles:
-- Library/Preferences/com.yukkurigames.Enjoyable.plist
+  - Library/Preferences/com.yukkurigames.Enjoyable.plist

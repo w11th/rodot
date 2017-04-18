@@ -1,10 +1,8 @@
----
-name: Atom
 dotfiles:
-- Library/Preferences/com.github.atom.plist
-- ".atom/config.cson"
-- ".atom/init.coffee"
-- ".atom/keymap.cson"
-- ".atom/keymaps"
-- ".atom/snippets.cson"
-- ".atom/styles.less"
+  - Library/Preferences/com.github.atom.plist
+  - .atom/config.cson
+  - .atom/init.coffee
+  - .atom/keymap.cson
+  - .atom/keymaps
+  - .atom/snippets.cson
+  - .atom/styles.less

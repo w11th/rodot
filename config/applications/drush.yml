@@ -1,4 +1,2 @@
----
-name: Drush
 dotfiles:
-- ".drush"
+  - .drush

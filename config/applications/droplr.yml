@@ -1,4 +1,2 @@
----
-name: Droplr
 dotfiles:
-- Library/Preferences/com.droplr.droplr-mac.plist
+  - Library/Preferences/com.droplr.droplr-mac.plist

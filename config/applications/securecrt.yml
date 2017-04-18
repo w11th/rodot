@@ -1,5 +1,3 @@
----
-name: SecureCRT
 dotfiles:
-- Library/Application Support/VanDyke/SecureCRT/Config
-- Library/Preferences/com.vandyke.SecureCRT.plist
+  - Library/Application Support/VanDyke/SecureCRT/Config
+  - Library/Preferences/com.vandyke.SecureCRT.plist

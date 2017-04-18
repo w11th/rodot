@@ -1,5 +1,3 @@
----
-name: Spacemacs
 dotfiles:
-- ".spacemacs"
-- ".spacemacs.d"
+  - .spacemacs
+  - .spacemacs.d

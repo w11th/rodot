@@ -1,0 +1,5 @@
+dotfiles:
+  - .Xmodmap
+  - .Xresources
+  - .fonts
+  - .xinitrc

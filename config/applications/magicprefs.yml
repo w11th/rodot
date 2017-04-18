@@ -1,5 +1,3 @@
----
-name: MagicPrefs
 dotfiles:
-- Library/Preferences/com.vladalexa.MagicPrefs.MagicPrefsPlugins.plist
-- Library/Preferences/com.vladalexa.MagicPrefs.plist
+  - Library/Preferences/com.vladalexa.MagicPrefs.MagicPrefsPlugins.plist
+  - Library/Preferences/com.vladalexa.MagicPrefs.plist

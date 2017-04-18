@@ -1,5 +1,0 @@
----
-name: MPS Youtube
-dotfiles:
-- ".config/mps-youtube/config"
-- ".config/mps-youtube/playlist_v2"

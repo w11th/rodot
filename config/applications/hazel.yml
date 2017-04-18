@@ -1,5 +1,3 @@
----
-name: Hazel
 dotfiles:
-- Library/Application Support/Hazel
-- Library/Preferences/com.noodlesoft.Hazel.plist
+  - Library/Application Support/Hazel
+  - Library/Preferences/com.noodlesoft.Hazel.plist

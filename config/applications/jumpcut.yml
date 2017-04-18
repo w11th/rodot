@@ -1,5 +1,3 @@
----
-name: Jumpcut
 dotfiles:
-- Library/Application Support/Jumpcut
-- Library/Preferences/net.sf.Jumpcut.plist
+  - Library/Application Support/Jumpcut
+  - Library/Preferences/net.sf.Jumpcut.plist

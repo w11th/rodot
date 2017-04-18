@@ -1,5 +1,3 @@
----
-name: PostgreSQL
 dotfiles:
-- ".pgpass"
-- ".psqlrc"
+  - .pgpass
+  - .psqlrc

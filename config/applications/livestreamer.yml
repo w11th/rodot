@@ -1,6 +1,4 @@
----
-name: Livestreamer
 dotfiles:
-- ".livestreamerrc"
-- ".config/livestreamer/config"
-- ".config/livestreamer/plugins"
+  - .livestreamerrc
+  - .config/livestreamer/config
+  - .config/livestreamer/plugins

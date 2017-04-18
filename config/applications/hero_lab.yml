@@ -1,0 +1,4 @@
+dotfiles:
+  - Library/Application Support/Hero Lab/customoutput
+  - Library/Application Support/Hero Lab/data
+  - Library/Application Support/Hero Lab/docs

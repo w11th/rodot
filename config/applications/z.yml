@@ -1,4 +1,2 @@
----
-name: z
 dotfiles:
-- ".z"
+  - .z

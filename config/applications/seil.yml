@@ -1,5 +1,3 @@
----
-name: Seil
 dotfiles:
-- Library/Preferences/org.pqrs.PCKeyboardHack.plist
-- Library/Preferences/org.pqrs.Seil.plist
+  - Library/Preferences/org.pqrs.PCKeyboardHack.plist
+  - Library/Preferences/org.pqrs.Seil.plist

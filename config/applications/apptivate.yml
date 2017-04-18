@@ -1,4 +1,2 @@
----
-name: Apptivate
 dotfiles:
-- Library/Application Support/Apptivate/hotkeys
+  - Library/Application Support/Apptivate/hotkeys

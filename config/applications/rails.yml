@@ -1,4 +1,2 @@
----
-name: Rails
 dotfiles:
-- ".railsrc"
+  - .railsrc

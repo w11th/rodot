@@ -1,4 +1,2 @@
----
-name: Phoenix
 dotfiles:
-- ".phoenix.js"
+  - .phoenix.js

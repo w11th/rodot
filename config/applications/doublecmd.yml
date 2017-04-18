@@ -1,7 +1,5 @@
----
-name: Double Commander
 dotfiles:
-- ".config/doublecmd/wfx.ini"
-- ".config/doublecmd/doublecmd.ext"
-- ".config/doublecmd/shortcuts.scf"
-- ".config/doublecmd/doublecmd.xml"
+  - .config/doublecmd/wfx.ini
+  - .config/doublecmd/doublecmd.ext
+  - .config/doublecmd/shortcuts.scf
+  - .config/doublecmd/doublecmd.xml

@@ -1,5 +1,3 @@
----
-name: PopClip
 dotfiles:
-- Library/Preferences/com.pilotmoon.popclip.plist
-- Library/Application Support/PopClip
+  - Library/Preferences/com.pilotmoon.popclip.plist
+  - Library/Application Support/PopClip

@@ -1,5 +1,3 @@
----
-name: Mackup
 dotfiles:
-- ".mackup.cfg"
-- ".mackup"
+  - .mackup.cfg
+  - .mackup

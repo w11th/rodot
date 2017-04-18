@@ -1,6 +1,4 @@
----
-name: composer
 dotfiles:
-- ".composer/auth.json"
-- ".composer/config.json"
-- ".composer/composer.json"
+  - .composer/auth.json
+  - .composer/config.json
+  - .composer/composer.json

@@ -1,6 +1,4 @@
----
-name: Perl
 dotfiles:
-- ".perltidyrc"
-- ".perlcriticrc"
-- ".proverc"
+  - .perltidyrc
+  - .perlcriticrc
+  - .proverc

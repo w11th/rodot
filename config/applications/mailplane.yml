@@ -1,5 +1,3 @@
----
-name: Mailplane
 dotfiles:
-- Library/Preferences/com.mailplaneapp.Mailplane.plist
-- Library/Preferences/com.mailplaneapp.Mailplane3.plist
+  - Library/Preferences/com.mailplaneapp.Mailplane.plist
+  - Library/Preferences/com.mailplaneapp.Mailplane3.plist

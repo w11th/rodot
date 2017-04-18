@@ -1,7 +1,5 @@
----
-name: Swinsian
 dotfiles:
-- Library/Application Support/Swinsian/Library.sqlite
-- Library/Application Support/Swinsian/License.swinsianlicense
-- Library/Preferences/com.swinsian.Swinsian.plist
-- Library/Preferences/com.swinsian.SwinsianDesktopWindow.plist
+  - Library/Application Support/Swinsian/Library.sqlite
+  - Library/Application Support/Swinsian/License.swinsianlicense
+  - Library/Preferences/com.swinsian.Swinsian.plist
+  - Library/Preferences/com.swinsian.SwinsianDesktopWindow.plist

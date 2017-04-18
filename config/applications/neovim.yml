@@ -1,6 +1,4 @@
----
-name: neovim
 dotfiles:
-- ".config/nvim"
-- ".nvimrc"
-- ".nvim"
+  - .config/nvim
+  - .nvimrc
+  - .nvim

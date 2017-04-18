@@ -1,4 +1,2 @@
----
-name: Rubocop
 dotfiles:
-- ".rubocop.yml"
+  - .rubocop.yml

@@ -1,4 +1,2 @@
----
-name: Keka
 dotfiles:
-- Library/Preferences/com.aone.keka.plist
+  - Library/Preferences/com.aone.keka.plist

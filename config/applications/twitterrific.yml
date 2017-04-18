@@ -1,4 +1,2 @@
----
-name: Twitterrific
 dotfiles:
-- Library/Application Support/Twitterrific
+  - Library/Application Support/Twitterrific

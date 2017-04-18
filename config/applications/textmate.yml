@@ -1,7 +1,5 @@
----
-name: TextMate
 dotfiles:
-- Library/Application Support/TextMate/Managed/Bundles
-- Library/Preferences/com.macromates.textmate.plist
-- Library/Preferences/com.macromates.textmate.latex_config.plist
-- ".tm_properties"
+  - Library/Application Support/TextMate/Managed/Bundles
+  - Library/Preferences/com.macromates.textmate.plist
+  - Library/Preferences/com.macromates.textmate.latex_config.plist
+  - .tm_properties

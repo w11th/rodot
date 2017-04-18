@@ -1,4 +1,2 @@
----
-name: Witch
 dotfiles:
-- Library/Preferences/com.manytricks.Witch.plist
+  - Library/Preferences/com.manytricks.Witch.plist

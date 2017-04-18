@@ -1,0 +1,3 @@
+dotfiles:
+  - Library/Application Support/GrandTotal/AddressBook.plist
+  - Library/Preferences/com.mediaatelier.GrandTotal3.plist

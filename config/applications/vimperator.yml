@@ -1,5 +1,3 @@
----
-name: Vimperator
 dotfiles:
-- ".vimperator"
-- ".vimperatorrc"
+  - .vimperator
+  - .vimperatorrc

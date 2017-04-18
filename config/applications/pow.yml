@@ -1,6 +1,4 @@
----
-name: Pow
 dotfiles:
-- ".powconfig"
-- ".powenv"
-- ".powrc"
+  - .powconfig
+  - .powenv
+  - .powrc
