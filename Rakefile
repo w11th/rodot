@@ -1,14 +1,12 @@
 require "bundler/gem_tasks"
 require "rspec/core/rake_task"
 
-require "yaml"
-
 RSpec::Core::RakeTask.new(:spec)
 
 task :default => :spec
 
 desc "Transfer mackup cfg file to rodot yml file"
-task :transfer_mackup do
+task :transfer_mackup_cfg do
   source_path = './config/mackup/applications'
   dest_path = './config/applications'
 
