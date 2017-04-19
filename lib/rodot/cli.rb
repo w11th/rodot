@@ -1,3 +1,4 @@
+require 'rodot'
 require 'thor'
 
 module Rodot
