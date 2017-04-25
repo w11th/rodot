@@ -1,7 +1,7 @@
 require 'rodot/version'
 require 'rodot/configuration'
 require 'rodot/cli'
-require 'rodot/util'
+require 'rodot/utils'
 
 module Rodot
   # Your code goes here...
@@ -10,7 +10,8 @@ module Rodot
       CLI.start(args)
     end
 
-    def load_configuration(override = {})
+    def configure(override = {})
+      configuration = Configuration.new
     end
   end
 end

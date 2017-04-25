@@ -1,5 +1,5 @@
 conf_dir_path: ~/.rodot
 conf_file_name: conf.yml
-app_conf_dir_name: applications
+app_db_dir_name: applications
 
 store_dir_path: ~/.dotfiles
