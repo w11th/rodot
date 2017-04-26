@@ -11,7 +11,9 @@ module Rodot
     end
 
     def configure(override = {})
-      configuration = Configuration.new
+      # 1. load user conf file
+      # 2. override with options
+      # return Configuration
     end
   end
 end

@@ -2,8 +2,6 @@ require 'thor'
 
 module Rodot
   class CLI < Thor
-    class_option :verbose, type: :boolean
-
     desc "list", "list all available applications"
     def list
     end
