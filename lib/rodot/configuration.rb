@@ -2,7 +2,49 @@ require 'fileutils'
 require 'yaml'
 
 module Rodot
-  module Configuration
+  class Configuration
+
+    RODOT_HOME = File.expand_path('../..', File.dirname(__FILE__))
+    DEFAULT_CONF_FILE = File.join(RODOT_HOME, 'config', 'default.yml')
+    DEFAULT_APP_DB_DIR = File.join(RODOT_HOME, 'config', 'applications')
+
+    USER_CONF_FILE = File.join(ENV['HOME'], '.rodot', 'conf.yml')
+    USER_APP_DB_DIR = File.join(ENV['HOME'], '.rodot', 'applications')
+
+    def initialize(base_hash = {}, override = {})
+      @hash = {}
+      @hash['@_default_conf_file'] = DEFAULT_CONF_FILE
+
+      @hash['']
+
+    end
+
+    class << self
+      # from Rubocop
+      def load_file(path)
+        path = File.absolute_path(File.expand_path(path))
+        hash = load_yaml_file(path)
+      end
+
+      def load_yaml_file(absolute_path)
+        yaml_code = IO.read(absolute_path, encoding: Encoding::UTF_8)
+        hash = yaml_safa_load(yaml_code, absolute_path) || {}
+
+        unless hash.is_a?(Hash)
+          raise(TypeError, "Invalide configuration file: #{absolute_path}")
+        end
+
+        hash
+      end
+
+      def yaml_safe_load(yaml_code, file)
+        if YAML.respond_to?(:safe_load)
+          YAML.safe_load(yaml_code, [Regexp, Symbol], [], false, filename)
+        else
+          YAML.load(yaml_code, file)
+        end
+      end
+    end
     # Default options.
     # All allowed keys should be list here.
     DEFAULT = {

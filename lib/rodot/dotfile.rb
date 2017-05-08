@@ -1,11 +1,11 @@
+require 'fileutils'
+
 module Rodot
   # Dotfile model.
   # Manage source dotfile and dest dotfile.
   class Dotfile
-    attr_accessor :source
-    attr_accessor :dest
 
-    STATUS_ENUM = {
+    STATUS = {
       no_source: "Source doesn't exist.",
       no_dest: "Dest doesn't exist.",
       no_both: "Either source & dest exists.",
@@ -41,6 +41,15 @@ module Rodot
       desc_exists = dest_exist?
 
       if source_exists && desc_exists
+      end
+    end
+
+    def store
+      return false unless source_exist?
+
+      if dest_exist?
+      else
+        FileUtils.cp
       end
     end
   end

@@ -1,15 +1,9 @@
 module Rodot
   class Application
-    attr_accessor :name
-    attr_accessor :dotfiles
-
-    def initialize(name = nil, dotfiles = [])
+    def initialize(name, dotfiles = [], storage_dir)
       @name = name
-      @dotfiles = dotfiles
-    end
-
-    def invalid?
-      @name.nil? || @dotfiles.empty?
+      @storage_dir = File.join(storage_dir, @name)
+      dotfiles
     end
 
     def to_hash

@@ -4,10 +4,7 @@ module Rodot
   class CLI < Thor
     desc "list", "list all available applications"
     def list
-    end
-
-    desc "status <application> [<applications>*]", "display the status of application"
-    def status(application, *applications)
+      p File.absolute_path(File.expand_path '../.rodot')
     end
 
     desc "add [applications]", "add applications to cnf.yml"
@@ -16,6 +13,10 @@ module Rodot
 
     desc "delete [application]", "delete applications from cnf.yml"
     def delete(application, *applications)
+    end
+
+    desc "status <application> [<applications>*]", "display the status of application"
+    def status(application, *applications)
     end
 
     desc "store [application]", "store the application dotfiles and make symbol link"
